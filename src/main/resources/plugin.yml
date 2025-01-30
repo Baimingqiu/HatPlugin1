@@ -1,0 +1,8 @@
+name: HatPlugin1
+main: com.example.hatplugin.HatPlugin
+version: 1.0
+api-version: 1.20
+commands:
+  hat:
+    description: 将主手物品设为头盔
+    usage: /hat
